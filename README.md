@@ -17,7 +17,7 @@
 - **TypeScript**: Nivel básico
 
 ### Bases de Datos
-- **MySQL**: Nivel Avanzado
+- **MySQL**: Nivel intermedio
 - **Mongo**: Nivel intermedio
 
 ### Otras Habilidades
