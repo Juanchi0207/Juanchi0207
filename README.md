@@ -29,7 +29,7 @@
 ## 🛠️ Proyectos
 
 ### Gestión de aeropuertos
-Una web hecha en angular con typescript y un backend en nodeJs y express. Ecnargada de simular un aeropuerto con vuelos y pasajeros.
+Una web hecha en angular con typescript y un backend en nodeJs y express. Encargada de simular un aeropuerto con vuelos y pasajeros.
 
 ### Chat UDP con criptografia asimetrica
 Una aplicacion hecha en Java para simular un sistema de chat con mensajes encriptados.
